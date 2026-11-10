@@ -1,0 +1,63 @@
+body {
+    background-color: bisque;
+    font-size: 35px;
+}
+
+.cabecalho {
+    background-color: black;
+    color: bisque;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 22px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 50%;
+}
+
+.titulo {
+
+}
+
+.texto {
+    font-size: 35px;
+}
+
+.imgcentro {
+    width: 550px;
+    height: 550px;
+}
+
+ul {
+    font-size: 16px;
+}
+
+li {
+    display: inline-block;
+
+}
+
+li a {
+    font-size: 50px;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    font-size: 16px;
+    color: bisque;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: bisque;
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+}
