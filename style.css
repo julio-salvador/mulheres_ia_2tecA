@@ -4,7 +4,7 @@ body {
 }
 
 .cabecalho {
-    background-color: black;
+    background-color: brown;
     color: bisque;
     padding-top: 30px;
     padding-bottom: 30px;
@@ -17,7 +17,7 @@ body {
 }
 
 .titulo {
-
+    font-size: 22px;
 }
 
 .texto {
