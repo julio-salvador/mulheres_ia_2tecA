@@ -4,20 +4,20 @@ body {
 }
 
 .cabecalho {
-    background-color: brown;
+    background-color: black;
     color: bisque;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 22px;
+    font-size: 50px;
     padding: 20px;
     text-align: center;
     display: flex;
     justify-content: center;
-    gap: 50%;
+    gap: 30%;
 }
 
 .titulo {
-    font-size: 22px;
+    font-size: 35px;
 }
 
 .texto {
